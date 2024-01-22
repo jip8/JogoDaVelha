@@ -1,0 +1,9 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#win1, #win2, #draw, #vezO, #vezX {
+    display: none;
+}
